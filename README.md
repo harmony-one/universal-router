@@ -216,6 +216,7 @@ forge script --broadcast \
 --private-key <PRIVATE_KEY> \
 --sig 'run()' \
 script/deployParameters/Deploy<network>.s.sol:Deploy<network>
+-- legacy
 ```
 
 ### To Deploy and Verify

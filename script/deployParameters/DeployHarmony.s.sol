@@ -24,7 +24,7 @@ contract DeployHarmony is DeployUniversalRouter {
             looksRareRewardsDistributor: UNSUPPORTED_PROTOCOL,
             looksRareToken: UNSUPPORTED_PROTOCOL,
             v2Factory: UNSUPPORTED_PROTOCOL,
-            v3Factory: 0x75D91aeFE657Dce07A711586694CAF99E573F93b,
+            v3Factory: 0xB6c45134112d94fa50D94DfA9e2b3BB5743A0B8f,
             pairInitCodeHash: BYTES32_ZERO,
             poolInitCodeHash: 0xe34f199b19b2b4f47f68442619d555527d244f78a3297ea89325f843f87b8b54
         });
